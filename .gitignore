@@ -1,0 +1,8 @@
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/chroma_db_500k/
+backend/data/
+*.db
+.env
+__pycache__/
